@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shujuliuguyu
+- 👋 Hi, I’m @shujuliuguyu（数据流谷雨）
 - 👀 I’m interested in ACG
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
